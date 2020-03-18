@@ -1,0 +1,2 @@
+# Women-in-Big-Data-South-Africa
+This notebook introduces the Zindi competition (Women in Big Data South Africa - Women-Headed Households in South Africa). We'll take a quick look at the data, show how to create a model, estimate the score you'll get on Zindi, prepare your submission and get onto the leaderboard. I've also given some hints as to how to get a better score - once you have your first submission in, these might give you some ideas for what to try next.
